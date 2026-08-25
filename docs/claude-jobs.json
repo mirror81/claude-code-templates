@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-24T03:53:26.056150+00:00",
-  "totalJobs": 102,
+  "lastUpdated": "2026-08-25T03:47:09.253339+00:00",
+  "totalJobs": 103,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -730,6 +730,26 @@
         "Claude Code"
       ],
       "companyIcon": ""
+    },
+    {
+      "id": "anth-5304425008",
+      "company": "Anthropic",
+      "position": "Staff Software Engineer, Labs: Applied AI",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "At Anthropic, we're building AI systems that are safe, beneficial, and transformative. Our mission is to develop AI that benefits humanity, and we believe the most powerful capabilities emerge when we thoughtfully bridge the gap between research breakthroughs and real-world applications. Applied AI...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5304425008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5304425008",
+      "postedAt": "2026-07-08T15:55:29-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "hn-48823535",
