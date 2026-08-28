@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T13:48:49.830348+00:00",
+  "lastUpdated": "2026-08-28T14:55:07.740694+00:00",
   "totalJobs": 104,
   "sources": [
     "Anthropic",
@@ -7,6 +7,26 @@
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "anth-5407337008",
+      "company": "Anthropic",
+      "position": "Product Manager, Beneficial Deployments (Labs)",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "Claude has had commercial impact, but there’s significantly more that frontier AI can do outside of general use cases. Some of the largest opportunities: a step change in health, education, and economic opportunity for the people and institutions the technology would otherwise reach last, sit...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
+      "postedAt": "2026-08-27T15:48:13-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "anth-5392054008",
       "company": "Anthropic",
@@ -712,26 +732,6 @@
         "AWS",
         "Claude Code",
         "Rails",
-        "Anthropic"
-      ],
-      "companyIcon": "https://www.anthropic.com/favicon.ico"
-    },
-    {
-      "id": "anth-5311465008",
-      "company": "Anthropic",
-      "position": "Technical Enablement Lead, Claude Platform",
-      "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-      "remote": false,
-      "salary": "",
-      "description": "The Claude Platform ships fast, and every launch lands better when the field can understand it, demo it, and teach it. You'll own platform enablement end to end: the demos, hands-on labs, and technical curriculum that let Anthropic's go-to-market teams showcase the Claude Developer Platform with...",
-      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5311465008",
-      "source": "Anthropic",
-      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5311465008",
-      "postedAt": "2026-07-10T19:56:01-04:00",
-      "tags": [
-        "Rust",
-        "AWS",
-        "Claude Code",
         "Anthropic"
       ],
       "companyIcon": "https://www.anthropic.com/favicon.ico"
